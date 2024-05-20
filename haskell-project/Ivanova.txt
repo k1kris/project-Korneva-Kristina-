@@ -1,0 +1,8 @@
+Sidorov Ivan +79858885858 10 Monday Marriage contract certificate 11000
+Sidorova Maria 88005671320 12 Monday Certificate of inheritance contract 14500
+Petrov Kirill jhdt@jhfv.ru 10 Thursday Marriage contract certificate 11000
+Ivanova Dariya +7(910)970-56-34 9 Saturday Certificate of agreement on payment of alimony 8800
+Ivanova Dariya +7(910)970-56-34 10 Friday Marriage contract certificate 11000
+1) Marriage contract certificate 11000
+2) Certificate of agreement on payment of alimony 8800
+3) Certificate of inheritance contract 14500
